@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <html>
+        <head>
+            <title>Short CV</title>
+        </head>
+        <body>
+            <h1>My Name</h1>
+            <p>Email: myemail@example.com</p>
+            <p>Phone: 123-456-7890</p>
+            <hr>
+            <h2>Education</h2>
+            <ul>
+                <li>Bachelor's Degree in Computer Science, University of XYZ, Graduated in 20XX</li>
+                <li>Master's Degree in Business Administration, University of ABC, Graduated in 20XX</li>
+            </ul>
+            <hr>
+            <h2>Experience</h2>
+            <ul>
+                <li>Software Developer, Company A, 20XX-Present</li>
+                <li>Business Analyst, Company B, 20XX-20XX</li>
+            </ul>
+        </body>
+        </html>
